@@ -1,5 +1,5 @@
 #!/bin/sh
-version=3.6.0
+version=4.0.0
 if test "$1" != "" ; then
   version=$1
 fi
